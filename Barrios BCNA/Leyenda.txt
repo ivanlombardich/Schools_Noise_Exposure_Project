@@ -1,0 +1,9 @@
+
+*********************************************************
+LISTADO DE CAPAS EXPORTADAS
+
+
+Nombre de la capa: Límit barri
+Nombre de la capa: Nom barri
+
+*********************************************************
